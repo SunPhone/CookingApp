@@ -1,0 +1,40 @@
+{
+    "Games":
+    [
+        {
+            "gameName": "Dark Souls 2",
+            "gamePrice": "$19.99 to $40.00",
+            "gameConsoles": "PS3, XBOX360, PS4, XBOX ONE, PC",
+            "reviewRating": "76%",
+            "gameImage": "https://upload.wikimedia.org/wikipedia/en/e/ed/Dark_Souls_II_cover.jpg"
+        },
+        {
+            "gameName": "Final Fantasy 15",
+            "gamePrice": "$14.99 to 35.99",
+            "gameConsoles": "PS4, XBOX ONE, PC",
+            "reviewRating": "80%",
+            "gameImage": "https://upload.wikimedia.org/wikipedia/en/5/5a/FF_XV_cover_art.jpg"
+        },
+        {
+            "gameName": "Resident Evil Village",
+            "gamePrice": "$60",
+            "gameConsoles": "PS4, XBOX ONE, PC",
+            "reviewRating": "85%",
+            "gameImage": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png"
+        },
+        {
+            "gameName": "Yakuza Kiwami 2",
+            "gamePrice": "$29.99",
+            "gameConsoles": "PS4, PC",
+            "reviewRating": "80%",
+            "gameImage": "https://www.thegamingreview.com/wp-content/uploads/2018/09/YakuzaKi2.jpg"
+        },
+        {
+            "gameName": "Animal Crossing New Horizon",
+            "gamePrice": "$59.99",
+            "gameConsoles": "Switch",
+            "reviewRating": "76%",
+            "gameImage": "https://m.media-amazon.com/images/I/81qKst2CMOL._SL1500_.jpg"
+        }
+    ]
+}
