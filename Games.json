@@ -6,35 +6,40 @@
             "gamePrice": "$19.99 to $40.00",
             "gameConsoles": "PS3, XBOX360, PS4, XBOX ONE, PC",
             "reviewRating": "76%",
-            "gameImage": "https://upload.wikimedia.org/wikipedia/en/e/ed/Dark_Souls_II_cover.jpg"
+            "gameImage": "https://upload.wikimedia.org/wikipedia/en/e/ed/Dark_Souls_II_cover.jpg",
+            "gameWebsite": "https://www.metacritic.com/game/xbox-360/dark-souls-ii"
         },
         {
             "gameName": "Final Fantasy 15",
             "gamePrice": "$14.99 to 35.99",
             "gameConsoles": "PS4, XBOX ONE, PC",
             "reviewRating": "80%",
-            "gameImage": "https://upload.wikimedia.org/wikipedia/en/5/5a/FF_XV_cover_art.jpg"
+            "gameImage": "https://upload.wikimedia.org/wikipedia/en/5/5a/FF_XV_cover_art.jpg",
+            "gameWebsite": "https://www.metacritic.com/game/playstation-4/final-fantasy-xv"
         },
         {
             "gameName": "Resident Evil Village",
             "gamePrice": "$60",
-            "gameConsoles": "PS4, XBOX ONE, PC",
+            "gameConsoles": "PS4, PS5, XBOX ONE, PC",
             "reviewRating": "85%",
-            "gameImage": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png"
+            "gameImage": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
+            "gameWebsite": "https://www.metacritic.com/game/playstation-5/resident-evil-village"
         },
         {
             "gameName": "Yakuza Kiwami 2",
             "gamePrice": "$29.99",
             "gameConsoles": "PS4, PC",
             "reviewRating": "80%",
-            "gameImage": "https://www.thegamingreview.com/wp-content/uploads/2018/09/YakuzaKi2.jpg"
+            "gameImage": "https://www.thegamingreview.com/wp-content/uploads/2018/09/YakuzaKi2.jpg",
+            "gameWebsite": "https://www.metacritic.com/game/playstation-4/yakuza-kiwami-2"
         },
         {
             "gameName": "Animal Crossing New Horizon",
             "gamePrice": "$59.99",
             "gameConsoles": "Switch",
             "reviewRating": "76%",
-            "gameImage": "https://m.media-amazon.com/images/I/81qKst2CMOL._SL1500_.jpg"
+            "gameImage": "https://m.media-amazon.com/images/I/81qKst2CMOL._SL1500_.jpg",
+            "gameWebsite": "https://www.metacritic.com/game/switch/animal-crossing-new-horizons" 
         }
     ]
 }
